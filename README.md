@@ -158,18 +158,6 @@ I build systems, not just apps:
 
 ---
 
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Namoneo&theme=dark&hide_border=true&background=0d1117" alt="GitHub Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Namoneo&color=blue&style=flat" alt="Profile Views" />
-</p>
-
----
-
 <p align="center">
   <em>Automating the mechanical. Amplifying the human.</em>
 </p>
