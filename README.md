@@ -7,9 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Namoneo">
-    <img src="https://img.shields.io/github/followers/Namoneo?label=Follow&style=social" alt="GitHub followers">
-  </a>
+  <img src="https://img.shields.io/github/followers/Namoneo?label=Follow&style=social" alt="GitHub followers">
 </p>
 
 ---
@@ -49,8 +47,6 @@ AI agents handle the full development lifecycle:
 
 **Stack:** `Angular 21` `NestJS` `LangGraph` `PostgreSQL` `WebSockets`
 
-[View Project →](https://github.com/Namoneo/agent-fleet-dashboard-20260512-195637)
-
 </td>
 <td width="50%">
 
@@ -61,54 +57,51 @@ OpenClaw multi-repo automation with Telegram control room for managing distribut
 
 **Stack:** `Shell` `Telegram Bot` `OpenClaw`
 
-[View Project →](https://github.com/Namoneo/openclaw-multi-repo-template)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🎨 TailwindVault
-**Premium Tailwind CSS Components Marketplace**
-
-A marketplace platform for premium Tailwind CSS components and templates.
-
-**Stack:** `TypeScript` `Angular` `Tailwind CSS`
-
-[View Project →](https://github.com/Namoneo/tailwindvault)
-
-</td>
-<td width="50%">
-
-### 👕 VirtualTry
-**Virtual trial room application**
-
-Virtual trial room app for trying on clothes virtually using AR/AI technology.
-
-**Stack:** `TypeScript` `Angular` `Computer Vision`
-
-[View Project →](https://github.com/Namoneo/VirtualTry)
-
 </td>
 </tr>
 </table>
 
 ---
 
-## Recent Work
+## Portfolio Projects
+
+Projects from my latest developer portfolio:
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| **Deal Hunter** | Smart deal-finding platform that aggregates and analyzes the best offers across multiple sources in real-time | TypeScript, Next.js |
+| **Melanium** | Comprehensive full-stack application built with Angular and modern TypeScript patterns for scalable enterprise solutions | TypeScript, Angular |
+| **Document Management System** | Enterprise-grade document management with search, versioning, and collaborative editing | TypeScript, React |
+| **VeriFlow** | Identity verification platform with secure authentication, multi-factor verification, and fraud detection | TypeScript, Node.js |
+| **Virtual Try-On** | AI-powered virtual trial room using computer vision and deep learning | TypeScript, AI/ML |
+| **Generative UI Platform** | Platform for generating dynamic user interfaces powered by AI, enabling rapid prototyping | TypeScript, Angular |
+
+---
+
+## Recent GitHub Work
 
 | Project | Description | Tech | Updated |
 |---------|-------------|------|---------|
-| [**tickitt**](https://github.com/Namoneo/tickitt) | OpenClaw workspace | OpenClaw | May 2026 |
-| [**klussen-app**](https://github.com/Namoneo/klussen-app) | Service marketplace platform | TypeScript, Angular | Apr 2026 |
-| [**clawpilot**](https://github.com/Namoneo/clawpilot) | OpenClaw pilot interface | TypeScript | Mar 2026 |
-| [**issue-tracker**](https://github.com/Namoneo/issue-tracker) | Project management tool | TypeScript | Mar 2026 |
-| [**CarAdvertiser**](https://github.com/Namoneo/CarAdvertiser) | Interactive car ad with Lightbox | JavaScript | 2017 |
-| [**portfolio**](https://github.com/Namoneo/portfolio) | Personal portfolio website | Ruby | 2017 |
-| [**react_youtube_api**](https://github.com/Namoneo/react_youtube_api) | YouTube API integration | JavaScript | 2017 |
-| [**simpleReactwithBootstrap**](https://github.com/Namoneo/simpleReactwithBootstrap) | React learning project | React, Bootstrap | 2016 |
-| [**purejsdrumkit**](https://github.com/Namoneo/purejsdrumkit) | Vanilla JS drum kit | HTML, JavaScript | 2016 |
-| [**feather_react_webpack_starter**](https://github.com/Namoneo/feather_react_webpack_starter) | React starter template | JavaScript | 2016 |
+| **tickitt** | OpenClaw workspace | OpenClaw | May 2026 |
+| **klussen-app** | Service marketplace platform | TypeScript, Angular | Apr 2026 |
+| **clawpilot** | OpenClaw pilot interface | TypeScript | Mar 2026 |
+| **tailwindvault** | Premium Tailwind CSS Components Marketplace | TypeScript | Mar 2026 |
+| **issue-tracker** | Project management tool | TypeScript | Mar 2026 |
+| **reader-app** | Document reader application | TypeScript | Mar 2026 |
+| **cbr-theory-frontend** | CBR theory frontend implementation | TypeScript | Apr 2026 |
+| **cbr-theory-ai** | AI implementation for CBR theory | TypeScript | Apr 2026 |
+| **ecommerce-api** | E-commerce backend API | TypeScript | Apr 2026 |
+| **developer-portfolio** | Dark modern developer portfolio website | TypeScript | Apr 2026 |
+| **landing-page** | Modern landing page template | TypeScript | Apr 2026 |
+| **CMS** | Content management system | TypeScript | Apr 2026 |
+| **LocalSiteAI** | Local AI-powered website generator | TypeScript | Apr 2026 |
+| **personal-linear** | Personal project management tool | TypeScript | Mar 2026 |
+| **nightmanagerscms** | Night managers CMS | HTML | Mar 2026 |
+| **webshop-in-angular** | E-commerce webshop built with Angular | TypeScript | Mar 2026 |
+| **dms-backend** | Document management system backend | TypeScript | Aug 2025 |
+| **x-ray-ai-expert** | X-ray AI analysis tool | TypeScript | Dec 2025 |
+| **business-tools-monorepo** | Business tools monorepo | TypeScript | Dec 2024 |
+| **Schedule-SAAS-app** | Scheduling SaaS application | Unknown | Feb 2026 |
 
 ---
 
