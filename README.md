@@ -159,5 +159,9 @@ I build systems, not just apps:
 ---
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Namoneo&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+<p align="center">
   <em>Automating the mechanical. Amplifying the human.</em>
 </p>
