@@ -6,60 +6,38 @@
   <strong>Sherzod Sanakulov</strong> — Netherlands
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/Namoneo?label=Follow&style=social" alt="GitHub followers">
-</p>
-
 ---
 
 ## What I Build
 
-I design **AI-powered engineering systems** that automate developer workflows — from Jira tickets to production deployments. My focus is on **autonomous agent orchestration**, **real-time dashboards**, and **enterprise-grade Angular architecture**.
+I design **AI-powered engineering systems** that automate developer workflows — from Jira tickets to production deployments. My focus is on **autonomous agent orchestration**, **real-time dashboards**, and **enterprise-grade architecture**.
 
-**Core Stack:**
+---
+
+## Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="WebSockets" />
 </p>
-
----
-
-## Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🤖 AI Engineering Orchestrator
-**Autonomous developer workflow platform**
-
-AI agents handle the full development lifecycle:
-- Jira → Agent → PR automation
-- Multi-agent orchestration with LangGraph
-- Worktree isolation per task
-- Real-time activity dashboard
-
-**Stack:** `Angular 21` `NestJS` `LangGraph` `PostgreSQL` `WebSockets`
-
-</td>
-<td width="50%">
-
-### 🎯 OpenClaw Multi-Repo Template
-**AI automation workspace**
-
-OpenClaw multi-repo automation with Telegram control room for managing distributed AI agent operations.
-
-**Stack:** `Shell` `Telegram Bot` `OpenClaw`
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -105,30 +83,66 @@ Projects from my latest developer portfolio:
 
 ---
 
-## Engineering Principles
+## Engineering Philosophy
 
 ```
-┌─────────────────────────────────────────────────────────┐
-│  Standalone Angular only          → No NgModules        │
-│  Signals over RxJS where possible → Reactive state      │
-│  Strict TypeScript always         → Zero any types      │
-│  Accessibility-first UI           → WCAG 2.1 AA         │
-│  AI-assisted workflows            → Automate boilerplate│
-│  Clean DX > clever abstractions   → Code obviousness    │
-└─────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────────────┐
+│                                                                     │
+│  ARCHITECTURE OVER FRAMEWORKS                                       │
+│  ────────────────────────────                                       │
+│  Understand the problem before choosing the solution. Patterns      │
+│  outlast technologies.                                              │
+│                                                                     │
+│  AUTONOMY THROUGH AUTOMATION                                        │
+│  ───────────────────────────                                        │
+│  Every repetitive task is a candidate for elimination. AI agents    │
+│  handle the mechanical; humans focus on the creative.               │
+│                                                                     │
+│  STANDALONE ANGULAR ONLY                                            │
+│  ───────────────────────                                            │
+│  Modern Angular with signals, inject(), and standalone components.  │
+│  No NgModules in new code. Clean imports, tree-shakable builds.     │
+│                                                                     │
+│  SIGNALS OVER RXJS WHERE POSSIBLE                                   │
+│  ─────────────────────────────────                                  │
+│  Fine-grained reactivity without the subscription maze.             │
+│  Simpler mental models, better performance, less memory pressure.   │
+│                                                                     │
+│  STRICT TYPESCRIPT ALWAYS                                           │
+│  ──────────────────────────                                         │
+│  Zero any types. Compiler is the first test suite.                  │
+│  Runtime errors become compile-time feedback.                       │
+│                                                                     │
+│  ACCESSIBILITY-FIRST UI                                             │
+│  ──────────────────────                                             │
+│  WCAG 2.1 AA compliance is non-negotiable.                          │
+│  Good design works for everyone, regardless of ability.             │
+│                                                                     │
+│  CLEAN DX > CLEVER ABSTRACTIONS                                     │
+│  ────────────────────────────────                                   │
+│  Code is read 10x more than written. Obvious beats clever.          │
+│  Junior devs should understand it at 3 AM during an outage.         │
+│                                                                     │
+└─────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
 ## Architecture Focus
 
-I build systems, not just apps. My work emphasizes:
+I build systems, not just apps:
 
-- **Distributed Systems** — Microservices, event-driven architectures
-- **AI Orchestration** — Multi-agent workflows with LangGraph
-- **Real-time Systems** — WebSockets, live dashboards, reactive UIs
-- **CI/CD Automation** — Self-healing deployment pipelines
-- **Developer Experience** — Tooling that makes engineers productive
+**Distributed Systems** — Microservices, event-driven architectures, message queues, eventual consistency
+
+**AI Orchestration** — Multi-agent workflows with LangGraph, autonomous decision-making, tool-calling patterns
+
+**Real-time Systems** — WebSockets, Server-Sent Events, reactive UIs, live collaboration
+
+**Data-Intensive Applications** — CQRS, event sourcing, read model optimization, caching strategies
+
+**Developer Experience** — CLI tooling, scaffolding, automated workflows, comprehensive documentation
+
+**Infrastructure as Code** — Terraform, Docker, Kubernetes, GitOps, immutable deployments
 
 ---
 
@@ -136,30 +150,21 @@ I build systems, not just apps. My work emphasizes:
 
 | Area | Technologies |
 |------|--------------|
-| Multi-agent coding systems | LangGraph, Claude Code, OpenClaw |
-| AI code review workflows | NestJS, GitHub API, Vector DB |
-| Angular SSR + RAG | Server-side rendering, AI content |
-| Autonomous CI/CD | GitHub Actions, Docker, K8s |
-
----
-
-## 2026 Goals
-
-- [ ] Ship open-source AI Engineering Orchestrator
-- [ ] Reach 1,000 GitHub stars across projects
-- [ ] Publish Angular + AI architecture patterns
-- [ ] Contribute to LangGraph ecosystem
-- [ ] Build community around autonomous dev platforms
+| Multi-agent coding systems | LangGraph, Claude Code, OpenClaw, CrewAI |
+| AI code review workflows | NestJS, GitHub API, Vector DBs, embeddings |
+| Angular SSR + RAG | Server-side rendering, vector search, AI content generation |
+| Autonomous CI/CD | GitHub Actions, ArgoCD, self-healing deployments |
+| Edge computing | Cloudflare Workers, Vercel Edge, Deno Deploy |
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Namoneo&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Namoneo&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Namoneo&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0d1117" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Namoneo&layout=compact&theme=dark&hide_border=true&langs_count=8&bg_color=0d1117" alt="Top Languages" height="150" />
 </p>
 
 ---
 
 <p align="center">
-  <em>Building the future of autonomous software development, one agent at a time.</em>
+  <em>Automating the mechanical. Amplifying the human.</em>
 </p>
