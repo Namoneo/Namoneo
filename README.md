@@ -158,9 +158,14 @@ I build systems, not just apps:
 
 ---
 
+## GitHub Activity
+
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Namoneo&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0d1117" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Namoneo&layout=compact&theme=dark&hide_border=true&langs_count=8&bg_color=0d1117" alt="Top Languages" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Namoneo&theme=dark&hide_border=true&background=0d1117" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Namoneo&color=blue&style=flat" alt="Profile Views" />
 </p>
 
 ---
