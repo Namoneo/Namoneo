@@ -98,10 +98,10 @@ Projects from my latest developer portfolio:
 | **personal-linear** | Personal project management tool | TypeScript | Mar 2026 |
 | **nightmanagerscms** | Night managers CMS | HTML | Mar 2026 |
 | **webshop-in-angular** | E-commerce webshop built with Angular | TypeScript | Mar 2026 |
-| **dms-backend** | Document management system backend | TypeScript | Aug 2025 |
-| **x-ray-ai-expert** | X-ray AI analysis tool | TypeScript | Dec 2025 |
-| **business-tools-monorepo** | Business tools monorepo | TypeScript | Dec 2024 |
 | **Schedule-SAAS-app** | Scheduling SaaS application | Unknown | Feb 2026 |
+| **x-ray-ai-expert** | X-ray AI analysis tool | TypeScript | Dec 2025 |
+| **dms-backend** | Document management system backend | TypeScript | Aug 2025 |
+| **business-tools-monorepo** | Business tools monorepo | TypeScript | Dec 2024 |
 
 ---
 
