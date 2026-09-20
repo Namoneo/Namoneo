@@ -150,16 +150,6 @@ Premium Tailwind CSS components marketplace — a curated library of production-
 
 <br />
 
-<!-- ═══════════════════════════ BUILDING CADENCE ════════════════════════ -->
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer.png" width="28" /> &nbsp;Building Cadence
-
-<p align="center"><em>How busy I've been shipping — repositories by their latest active push, month over month.</em></p>
-
-<img src="assets/building-cadence.svg" width="100%" alt="Building cadence — repositories actively pushed, by month" />
-
-<br />
-
 <!-- ═══════════════════════════ RECENT WORK ═════════════════════════════ -->
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20Index.png" width="28" /> &nbsp;Recent GitHub Work
