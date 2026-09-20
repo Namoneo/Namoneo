@@ -1,16 +1,67 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=AI+Engineering+Systems;Angular+%2B+AI+Workflow+Architect;Building+Autonomous+Developer+Platforms" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=AI+Engineering+Systems;Angular+%2B+AI+Workflow+Architect;Building+Autonomous+Developer+Platforms;Multi-Agent+Orchestration+at+Scale" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <strong>Sherzod Sanakulov</strong> — Netherlands
+  <strong>Sherzod Sanakulov</strong> &nbsp;·&nbsp; 🇳🇱 Netherlands
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Open_to_work-22C55E?style=flat-square&logo=briefcase&logoColor=white" alt="Open to work" />
+  <a href="https://github.com/Namoneo?tab=followers"><img src="https://img.shields.io/github/followers/Namoneo?style=flat-square&color=3B82F6&labelColor=1F2937" alt="Followers" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Namoneo&label=Profile%20views&color=3B82F6&style=flat-square" alt="Profile views" />
 </p>
 
 ---
 
 ## What I Build
 
-I design **AI-powered engineering systems** that automate developer workflows — from Jira tickets to production deployments. My focus is on **autonomous agent orchestration**, **real-time dashboards**, and **enterprise-grade architecture**.
+I design **AI-powered engineering systems** that automate the software delivery lifecycle — from a ticket in a backlog to a reviewed pull request in production. My work centers on **multi-agent orchestration**, **real-time dashboards**, and **enterprise-grade Angular + NestJS architecture**.
+
+The thread running through everything: *let autonomous agents handle the mechanical, so humans can focus on the creative.*
+
+---
+
+## Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🎫 [orchestrator-board](https://github.com/Namoneo/orchestrator-board)
+Ticket-driven orchestration hub for Claude Code. GitHub Issues become tickets; a workflow drains `ready-for-agent` issues in **dependency order**, planning execution *waves* with a human approval gate — and an optional browser-based QA phase before merge.
+
+`TypeScript` · `Vitest` · `GitHub Actions`
+
+  </td>
+    <td width="50%" valign="top">
+
+### 🎤 [karaoke-studio](https://github.com/Namoneo/karaoke-studio)
+Autonomous YouTube karaoke video producer. Analyzes a track's BPM/key/mood, generates a matched visual identity from 28 procedural backgrounds, force-aligns lyrics with Whisper, and exports 4K / 1080p / Shorts with SEO metadata.
+
+`Python` · `librosa` · `Whisper` · `ffmpeg`
+
+  </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+### 📬 [MailPilot](https://github.com/Namoneo/MailPilot)
+AI-powered email management assistant that triages, summarizes, and drafts — turning an overloaded inbox into a queue of one-click decisions.
+
+`TypeScript` · `AI/LLM`
+
+  </td>
+    <td width="50%" valign="top">
+
+### 🎨 [tailwindvault](https://github.com/Namoneo/tailwindvault)
+Premium Tailwind CSS components marketplace — a curated library of production-ready UI blocks with copy-paste installation.
+
+`TypeScript` · `Tailwind CSS`
+
+  </td>
+  </tr>
+</table>
 
 ---
 
@@ -24,8 +75,8 @@ I design **AI-powered engineering systems** that automate developer workflows �
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
@@ -41,18 +92,12 @@ I design **AI-powered engineering systems** that automate developer workflows �
 
 ---
 
-## Portfolio Projects
+## GitHub Stats
 
-Projects from my latest developer portfolio:
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| **Deal Hunter** | Smart deal-finding platform that aggregates and analyzes the best offers across multiple sources in real-time | TypeScript, Next.js |
-| **Melanium** | Comprehensive full-stack application built with Angular and modern TypeScript patterns for scalable enterprise solutions | TypeScript, Angular |
-| **Document Management System** | Enterprise-grade document management with search, versioning, and collaborative editing | TypeScript, React |
-| **VeriFlow** | Identity verification platform with secure authentication, multi-factor verification, and fraud detection | TypeScript, Node.js |
-| **Virtual Try-On** | AI-powered virtual trial room using computer vision and deep learning | TypeScript, AI/ML |
-| **Generative UI Platform** | Platform for generating dynamic user interfaces powered by AI, enabling rapid prototyping | TypeScript, Angular |
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Namoneo&show_icons=true&hide_border=true&count_private=true&title_color=3B82F6&icon_color=3B82F6&text_color=8B949E&bg_color=0D1117" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Namoneo&layout=compact&hide_border=true&langs_count=8&title_color=3B82F6&text_color=8B949E&bg_color=0D1117" alt="Top languages" />
+</p>
 
 ---
 
@@ -60,26 +105,20 @@ Projects from my latest developer portfolio:
 
 | Project | Description | Tech | Updated |
 |---------|-------------|------|---------|
-| **tickitt** | OpenClaw workspace | OpenClaw | May 2026 |
-| **klussen-app** | Service marketplace platform | TypeScript, Angular | Apr 2026 |
-| **clawpilot** | OpenClaw pilot interface | TypeScript | Mar 2026 |
-| **tailwindvault** | Premium Tailwind CSS Components Marketplace | TypeScript | Mar 2026 |
-| **issue-tracker** | Project management tool | TypeScript | Mar 2026 |
-| **reader-app** | Document reader application | TypeScript | Mar 2026 |
-| **cbr-theory-frontend** | CBR theory frontend implementation | TypeScript | Apr 2026 |
-| **cbr-theory-ai** | AI implementation for CBR theory | TypeScript | Apr 2026 |
-| **ecommerce-api** | E-commerce backend API | TypeScript | Apr 2026 |
-| **developer-portfolio** | Dark modern developer portfolio website | TypeScript | Apr 2026 |
-| **landing-page** | Modern landing page template | TypeScript | Apr 2026 |
-| **CMS** | Content management system | TypeScript | Apr 2026 |
-| **LocalSiteAI** | Local AI-powered website generator | TypeScript | Apr 2026 |
-| **personal-linear** | Personal project management tool | TypeScript | Mar 2026 |
-| **nightmanagerscms** | Night managers CMS | HTML | Mar 2026 |
-| **webshop-in-angular** | E-commerce webshop built with Angular | TypeScript | Mar 2026 |
-| **Schedule-SAAS-app** | Scheduling SaaS application | Unknown | Feb 2026 |
-| **x-ray-ai-expert** | X-ray AI analysis tool | TypeScript | Dec 2025 |
-| **dms-backend** | Document management system backend | TypeScript | Aug 2025 |
-| **business-tools-monorepo** | Business tools monorepo | TypeScript | Dec 2024 |
+| [**karaoke-studio**](https://github.com/Namoneo/karaoke-studio) | Autonomous YouTube karaoke video producer | Python | Sep 2026 |
+| [**Deal-hunter**](https://github.com/Namoneo/Deal-hunter) | Smart deal-finding & offer aggregation platform | TypeScript | Sep 2026 |
+| [**orchestrator-board**](https://github.com/Namoneo/orchestrator-board) | Ticket board + orchestration hub for Claude Code | TypeScript | Jul 2026 |
+| [**umbraco-angular-platform**](https://github.com/Namoneo/umbraco-angular-platform) | Umbraco CMS + Angular integration platform | TypeScript | Jul 2026 |
+| [**agent-fleet-dashboard**](https://github.com/Namoneo/agent-fleet-dashboard) | Real-time dashboard for monitoring AI agent fleets | TypeScript | Jun 2026 |
+| [**hermes-dashboard**](https://github.com/Namoneo/hermes-dashboard) | Hermes analytics / ops dashboard | Python | Jun 2026 |
+| [**TypeForge**](https://github.com/Namoneo/TypeForge) | Modern TypeScript project scaffold | TypeScript | May 2026 |
+| [**MailPilot**](https://github.com/Namoneo/MailPilot) | AI-powered email management assistant | TypeScript | May 2026 |
+| [**tickitt**](https://github.com/Namoneo/tickitt) | OpenClaw automation workspace | OpenClaw | May 2026 |
+| [**reddit-digest-bot**](https://github.com/Namoneo/reddit-digest-bot) | Automated Reddit digest generator | Python | May 2026 |
+| [**tailwindvault**](https://github.com/Namoneo/tailwindvault) | Premium Tailwind CSS components marketplace | TypeScript | Mar 2026 |
+| [**clawpilot**](https://github.com/Namoneo/clawpilot) | OpenClaw pilot interface | TypeScript | Mar 2026 |
+| [**openclaw-multi-repo-template**](https://github.com/Namoneo/openclaw-multi-repo-template) | Multi-repo automation template with Telegram control | Shell | Mar 2026 |
+| [**issue-tracker**](https://github.com/Namoneo/issue-tracker) | Project management / issue tracking tool | TypeScript | Mar 2026 |
 
 ---
 
@@ -157,10 +196,6 @@ I build systems, not just apps:
 | Edge computing | Cloudflare Workers, Vercel Edge, Deno Deploy |
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Namoneo&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
 
 <p align="center">
   <em>Automating the mechanical. Amplifying the human.</em>
